@@ -1,2 +1,4 @@
 # buchsamuel.github.io
-WEB PORTOFOLIO
+portofolio
+Link web:
+https://buchsamuel.github.io
